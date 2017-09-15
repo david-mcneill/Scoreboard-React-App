@@ -5,12 +5,12 @@ var PLAYERS = [
         id: 1,
     },
     {
-        name: "Ray Lawlor",
+        name: "Vicky Summers",
         score: 24,
         id: 2,
     },
     {
-        name: "Amy Baxter",
+        name: "Meeko",
         score: 30,
         id: 3,
     }
