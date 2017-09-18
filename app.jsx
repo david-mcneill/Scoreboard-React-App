@@ -1,22 +1,22 @@
 var PLAYERS = [
     {
-        name: "David McNeill",
+        name: "Player 1",
         score: 31,
         id: 1,
     },
     {
-        name: "Vicky Summers",
+        name: "Player 2",
         score: 24,
         id: 2,
     },
     {
-        name: "Meeko",
-        score: 30,
+        name: "Player 3",
+        score: 29,
         id: 3,
     }
 ];
 
-var nextId = 4;
+var nextId = PLAYERS.length + 1;
 
 
 
