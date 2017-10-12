@@ -1,4 +1,4 @@
-# Scoreboard-React-Project
+# Scoreboard-React-App
 A simple scoreboard with stopwatch timer, built with React from a Treehouse React course I took recently. 
 
 The app allows users to add and remove players, increment and decrement points, as well as start, stop and reset a stopwatch. 
